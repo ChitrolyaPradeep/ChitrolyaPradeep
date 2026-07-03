@@ -198,8 +198,8 @@ A collection of practical shell scripts for:
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: **Add Your LinkedIn URL**
-- 📧 Email: **your-email@example.com**
+- 💼 LinkedIn: www.linkedin.com/in/pradeep-chitroliya95
+- 📧 Email: chitroliyapradeep@gmail.com
 - 💻 GitHub: https://github.com/ChitrolyaPradeep
 
 ---
